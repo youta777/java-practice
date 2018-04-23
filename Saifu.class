@@ -1,0 +1,9 @@
+class Saifu {
+      int okane = 1000;
+      public void setOkane(int j){
+      	     okane = j;
+      }
+      public int getOkane(){
+      	     return oakne;
+      }
+}
